@@ -54,6 +54,14 @@ var defaults = {
 				text: "www.michaelteeuw.nl"
 			}
 		},
+		{
+			module: "videoCapture",
+			position: "bottom_bar",
+			classes: "xsmall dimmed",
+			config: {
+				text: "www.michaelteeuw.nl"
+			}
+		},
 	],
 
 	paths: {
