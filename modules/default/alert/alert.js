@@ -7,6 +7,11 @@
  * MIT Licensed.
  */
 
+
+// Example usage in module
+// self.sendNotification("SHOW_ALERT", {type: "notification", title: 'ClockNotification', message:  moment()}); 
+
+
 Module.register("alert",{
 	defaults: {
 		// scale|slide|genie|jelly|flip|bouncyflip|exploader
